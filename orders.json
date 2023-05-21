@@ -1,8 +1,10 @@
 [
     {
         "id": 1,
-        "userId": 1,
+        "userName": "Michael Brown",
         "date": "2020-03-02T00:00:00.000Z",
+        "status":"Delivered",
+        "Amount":500,
         "products": [
             {
                 "productId": 1,
@@ -21,8 +23,10 @@
     },
     {
         "id": 2,
-        "userId": 1,
+        "userName": "Emily Wilson",
         "date": "2020-01-02T00:00:00.000Z",
+        "status":"Pending",
+        "Amount":5200,
         "products": [
             {
                 "productId": 2,
@@ -41,8 +45,10 @@
     },
     {
         "id": 3,
-        "userId": 2,
+        "userName": "Sarah Johnson",
         "date": "2020-03-01T00:00:00.000Z",
+        "status":"Processing",
+        "Amount":700,
         "products": [
             {
                 "productId": 1,
@@ -57,8 +63,10 @@
     },
     {
         "id": 4,
-        "userId": 3,
+        "userName": "Sarah kalam",
         "date": "2020-01-01T00:00:00.000Z",
+        "status":"Delivered",
+        "Amount":900,
         "products": [
             {
                 "productId": 1,
@@ -69,8 +77,10 @@
     },
     {
         "id": 5,
-        "userId": 3,
+        "userName": "Abul smith",
         "date": "2020-03-01T00:00:00.000Z",
+        "status":"Processing",
+        "Amount":500,
         "products": [
             {
                 "productId": 7,
@@ -85,8 +95,10 @@
     },
     {
         "id": 6,
-        "userId": 4,
+        "userName": "Haji balam",
         "date": "2020-03-01T00:00:00.000Z",
+        "status":"pending",
+        "Amount":5000,
         "products": [
             {
                 "productId": 10,
@@ -101,8 +113,10 @@
     },
     {
         "id": 7,
-        "userId": 8,
+        "userName": "Shahrukh bin",
         "date": "2020-03-01T00:00:00.000Z",
+        "status":"Delivered",
+        "Amount":1500,
         "products": [
             {
                 "productId": 18,

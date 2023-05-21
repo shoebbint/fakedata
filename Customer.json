@@ -5,7 +5,7 @@
       "email": "johndoe@example.com",
       "phone": "1234567890",
       "address": "123 Main Street, City",
-      "image": "https://example.com/images/johndoe.jpg",
+      "image": "https://randomuser.me/api/portraits/men/19.jpg",
       "orders": [
         {
           "id": "101",
@@ -27,7 +27,7 @@
       "email": "janesmith@example.com",
       "phone": "9876543210",
       "address": "456 Elm Street, City",
-      "image": "https://example.com/images/janesmith.jpg",
+      "image": "https://randomuser.me/api/portraits/men/20.jpg",
       "orders": [
         {
           "id": "201",
@@ -49,7 +49,7 @@
       "email": "sarahjohnson@example.com",
       "phone": "5555555555",
       "address": "789 Oak Street, City",
-      "image": "https://example.com/images/sarahjohnson.jpg",
+      "image": "https://randomuser.me/api/portraits/men/18.jpg",
       "orders": [
         {
           "id": "301",
@@ -71,7 +71,7 @@
       "email": "michaelbrown@example.com",
       "phone": "9999999999",
       "address": "321 Maple Street, City",
-      "image": "https://example.com/images/michaelbrown.jpg",
+      "image": "https://randomuser.me/api/portraits/men/21.jpg",
       "orders": [
         {
           "id": "401",
@@ -87,7 +87,7 @@
       "email": "emilywilson@example.com",
       "phone": "7777777777",
       "address": "987 Pine Street, City",
-      "image": "https://example.com/images/emilywilson.jpg",
+      "image": "https://randomuser.me/api/portraits/men/22.jpg",
       "orders": [
         {
           "id": "501",
